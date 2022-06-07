@@ -45,7 +45,7 @@ public class Employee {
 
 	}
 	
-	public void Select() 
+	public void Selector() 
 	{
 		try 
 		{
@@ -169,7 +169,7 @@ public class Employee {
 			E.insert();
 			break;
 		case 2:
-			E.Select();
+			E.Selector();
 			break;
 		case 3:
 			E.update();
